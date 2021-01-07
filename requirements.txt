@@ -14,7 +14,7 @@ imbalanced-learn==0.2.1
 isodate==0.5.4
 joblib==0.10.2
 lifelines==0.9.3.2
-lxml==3.7.1
+lxml==4.6.2
 matplotlib==1.5.3
 mock==2.0.0
 natsort==5.0.1
